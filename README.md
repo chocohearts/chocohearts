@@ -29,7 +29,6 @@ I'm chocohearts.
           100% { transform: scale(1); }
         }
       </style>
-
       <div class="container">
         <h1>I code a lot.</h1>
       </div>
